@@ -1,9 +1,9 @@
 Simple password generator.
 
-# Installation
+## Installation
 `make && sudo make install`
 
-# Usage
+## Usage
 Default password length (8 characters):
 
 `makepw`
@@ -22,6 +22,6 @@ YpFjthQffAvO	[bAPxMXWFbZH	StgiOES_uPOf
 JEff]lEPytyu	AhBABjH[am^h	^TdmRyYSuDpX	
 </pre>
 
-# Uninstall
+## Uninstall
 
 `sudo make uninstall`
