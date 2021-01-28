@@ -3,7 +3,7 @@
  Name        : makepw
  Author      : Murat Çileli
  Version     : 1.0
- Copyright   : MIT License
+ Copyright   : GNU General Public License v3.0
  Description : Simple password generator.
  ============================================================================
  */
