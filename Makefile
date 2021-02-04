@@ -1,5 +1,5 @@
 all: makepw.c 
-	gcc -g -Wall -o makepw makepw.c
+	gcc -Wall -o makepw makepw.c
 
 install: makepw
 	cp $< /usr/local/bin/makepw

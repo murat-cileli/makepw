@@ -4,22 +4,33 @@ Simple password generator.
 `make && sudo make install`
 
 ## Usage
-Default password length (8 characters):
+Default password length (12 characters):
 
 `makepw`
-
-Specify a password length:
-
-`makepw 12`
 
 Output:
 
 <pre>
-HCUTShsCQMhS	Rr\EWPPekVfV	SLrbgmAooUzG	
-jBHGjPtg`IDD	vxAsZX]pomsX	CtCBuaneZukI	
-ri]WveMhOsy^	GhoNPqPQgulO	AUAc\DhKdJa_	
-YpFjthQffAvO	[bAPxMXWFbZH	StgiOES_uPOf	
-JEff]lEPytyu	AhBABjH[am^h	^TdmRyYSuDpX	
+XeNHfapR]je]	xkFyCQINSOef	FbGifecCGpBl
+tVdA^oKoIbQk	cWPC\VHCCGrX	GIzp\QvMf_FB
+H_ETaQBxUdG_	Cp_]UUPKEOgD	LAUXKpSKLWVl
+vBZPg`p_ua[W	pZCFeGP]\dix	S_yImkqhdPwI
+vlCKdyDZCRki	Fz`XFXTvEoMt	DgVDdRG`uIj^
+
+</pre>
+
+Specify a password length:
+
+`makepw 8`
+
+Output:
+
+<pre>
+LWiADxth	WMyYgnkP	HtQvv^kT
+UaoIw_TW	XFrkOaPn	qgWLwgoR
+dFUYdAjN	iCkk]HG^	R]SATfyA
+H[B[xATV	hPORmQ`M	gLPvZXsa
+TAneP^KP	uVyo`qpJ	bRcTxXdl	
 </pre>
 
 ## Uninstall
